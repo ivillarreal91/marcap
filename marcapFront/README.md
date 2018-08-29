@@ -8,7 +8,7 @@
 3.- Clonar repositorio [github](https://github.com/ivillarreal91/marcap)
 
 ### Instalación
-Ir a la carpeta /marcapFront/marcap-project ejecutar `npm install`
+Ir a la carpeta /marcapFront ejecutar `npm install`
 
 ### Ejecución
 `ng serve`
