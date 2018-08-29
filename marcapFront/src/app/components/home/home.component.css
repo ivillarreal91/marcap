@@ -1,0 +1,9 @@
+h1 {
+  padding: 2rem 0;
+  font-size: 3rem;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+tr:hover{
+  cursor: pointer;
+}
