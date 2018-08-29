@@ -12,4 +12,4 @@ Ir a la carpeta /marcapFront ejecutar `npm install`
 
 ### Ejecución
 En la carpeta /marcapFront ejecutar el siguiente comando `ng serve`
-Ir a la siguiente url `http://localhost:4200/`
+Ir a la siguiente [localhost:4200](http://localhost:4200/)
